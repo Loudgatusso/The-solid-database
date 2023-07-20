@@ -34,3 +34,15 @@
   "páginas": "176",
   "categoria": "evangelho, vida cristã"
 }§
+{
+  "bookname": "Conectado com deus",
+  "publicado": "12 de novembro de 2014",
+  "avaliação": "4.8",
+  "escritor": "Max lucado",
+  "descrição": "https://raw.githubusercontent.com/Loudgatusso/The-solid-database/main/descri_conectado_com_deus.txt",
+  "image": "https://i.ibb.co/mt5FVdd/Conectado-com-deus.png",
+  "content": "https://raw.githubusercontent.com/Loudgatusso/The-solid-database/main/Conectados-com-Deus-Todo-dia-%C3%A9-dia-de-conversar-com-Ele-Max-Lucado.txt",
+  "editora": "Thomas nelson brasil",
+  "páginas": "384",
+  "categoria": "evangelho, vida cristã, devocional"
+}§
